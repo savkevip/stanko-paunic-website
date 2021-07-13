@@ -6,10 +6,10 @@ const Hero = () => {
     return (
         <Container>
             <Content>
-                <Title>Title</Title>
+                <Title>Welcome to our web presentation!</Title>
                 <Separator />
-                <Description>#description</Description>
-                <LearnMoreButton variant="contained" size="small">Learn more</LearnMoreButton>
+                <Description>#footballwhatelse</Description>
+                <LearnMoreButton variant="contained" size="small">See more</LearnMoreButton>
             </Content>
         </Container>
     )
